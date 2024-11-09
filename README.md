@@ -1,3 +1,1 @@
-# wei
-My first repository on GitHub.
-I love ☕:, 🏕️:, 🍏:,and 💃:.
+"this is my first test!"
